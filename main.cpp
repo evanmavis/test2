@@ -5,6 +5,9 @@ using namespace std;
 
 int main()
 {
-	cout << "testing git" << endl;
+	string x = "Hello";
+	string y = "World";
+
+	cout << x << y << endl;
 	return 0;
 }
